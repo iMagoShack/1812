@@ -1,0 +1,60 @@
+#slideshowu6096
+{
+	position: relative;
+}
+
+#u6132
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u6137,#u6230,#u6239,#u6248,#u6836,#u6257,#u6266,#u6865,#u6293
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u6120-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #4C4C4C;
+	background-color: rgba(0, 0, 0, 0.7);
+	line-height: 20px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: fixed;
+	-pie-background: rgba(0, 0, 0, 0.7);
+}
+
+#u6120
+{
+	color: #999999;
+}
+
+#u6129-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #4C4C4C;
+	background-color: rgba(0, 0, 0, 0.7);
+	color: #999999;
+	line-height: 20px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: fixed;
+	-pie-background: rgba(0, 0, 0, 0.7);
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
